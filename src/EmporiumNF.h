@@ -1,7 +1,7 @@
 #ifndef _EMPORIUMNF_H
 #define _EMPORIUMNF_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t EmporiumNF10[];
